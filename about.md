@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! My name is Amrit Kohli, I'm a third year aerospace engineering student at Georgia Institute of Technology. As part of my studies I work in a research lab with Professor Bolei Deng and Matthew Fuertes. This project focalizes on the understanding of the Euler Disk.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Let me know if you have any questions!
 
 ### Contact me
 
